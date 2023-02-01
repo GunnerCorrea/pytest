@@ -9,3 +9,7 @@ source bin/activate
 ```bash
 pip install -r requeriments.txt
 ```
+
+```bash
+pytest
+```
